@@ -1,7 +1,7 @@
 # PySpark Expectations
 
 [<img src="https://opensourcelogos.aws.dmtech.cloud/dmTECH_opensource_logo.svg" height="21" width="130">](https://www.dmtech.de/) 
-[<img src="https://travis-ci.com/dm-drogeriemarkt/pyspark-expectations.svg?branch=master" height="21" width="130">](https://travis-ci.com/dm-drogeriemarkt/pyspark-expectations) 
+[<img src="https://travis-ci.com/dm-drogeriemarkt/pyspark-expectations.svg?branch=master" >](https://travis-ci.com/dm-drogeriemarkt/pyspark-expectations) 
 
 PySpark Expectations helps to check the most often data quality failures using pyspark modules. 
 The implementation with pyspark makes fast quality testing of big data possible.

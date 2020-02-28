@@ -4,7 +4,8 @@
 
 PySpark Expectations helps to check the most often data quality failures using pyspark modules. 
 The implementation with pyspark makes fast quality testing of big data possible.
-<br/>PySpark Expectations are inspired by [Great Expectations](https://github.com/great-expectations/great_expectations).
+
+PySpark Expectations are inspired by [Great Expectations](https://github.com/great-expectations/great_expectations).
 
 ## Getting Started
 
@@ -15,7 +16,7 @@ These instructions will get you a copy of the project up and running on your loc
 1. First of all, you have to install Python and Pip on your computer.
 * [Python 3 Installation & Setup Guide](https://realpython.com/installing-python/)
 * [Pip Installation Guide](https://pip.pypa.io/en/stable/installing/)
-2. The best practice is to run the project in a virtual environment. Next install it using [pipenv](https://pipenv-fork.readthedocs.io/en/latest/) or [virtualenv](https://virtualenv.pypa.io/en/latest/).<br/> 
+2. The best practice is to run the project in a virtual environment. Next install it using [pipenv](https://pipenv-fork.readthedocs.io/en/latest/) or [virtualenv](https://virtualenv.pypa.io/en/latest/).
 3. Finally, install all packages from "requiremens.txt" in the virtual environment. 
 <br/> With pipenv: 
 ```

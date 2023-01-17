@@ -1,3 +1,6 @@
+:warning: | This repository is not being maintained anymore.
+:---: | :---
+
 # PySpark Expectations
 
 [<img src="https://opensourcelogos.aws.dmtech.cloud/dmTECH_opensource_logo.svg" height="21" width="130">](https://www.dmtech.de/) 
